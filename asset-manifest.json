@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lamdata/static/css/main.6f60fe5f.chunk.css",
-    "main.js": "/lamdata/static/js/main.9f5ca031.chunk.js",
-    "main.js.map": "/lamdata/static/js/main.9f5ca031.chunk.js.map",
+    "main.js": "/lamdata/static/js/main.863e5c6c.chunk.js",
+    "main.js.map": "/lamdata/static/js/main.863e5c6c.chunk.js.map",
     "runtime-main.js": "/lamdata/static/js/runtime-main.04750d8b.js",
     "runtime-main.js.map": "/lamdata/static/js/runtime-main.04750d8b.js.map",
     "static/js/2.a253baa7.chunk.js": "/lamdata/static/js/2.a253baa7.chunk.js",
     "static/js/2.a253baa7.chunk.js.map": "/lamdata/static/js/2.a253baa7.chunk.js.map",
     "index.html": "/lamdata/index.html",
-    "precache-manifest.e3df0e35e0d3580f146780ba7faa2ff1.js": "/lamdata/precache-manifest.e3df0e35e0d3580f146780ba7faa2ff1.js",
+    "precache-manifest.4647a786f2b656159893794e1f4fa95e.js": "/lamdata/precache-manifest.4647a786f2b656159893794e1f4fa95e.js",
     "service-worker.js": "/lamdata/service-worker.js",
     "static/css/main.6f60fe5f.chunk.css.map": "/lamdata/static/css/main.6f60fe5f.chunk.css.map",
     "static/js/2.a253baa7.chunk.js.LICENSE.txt": "/lamdata/static/js/2.a253baa7.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.04750d8b.js",
     "static/js/2.a253baa7.chunk.js",
     "static/css/main.6f60fe5f.chunk.css",
-    "static/js/main.9f5ca031.chunk.js"
+    "static/js/main.863e5c6c.chunk.js"
   ]
 }
