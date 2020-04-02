@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/jindamp/lamdata/static/css/main.6f60fe5f.chunk.css",
-    "main.js": "/jindamp/lamdata/static/js/main.15181411.chunk.js",
-    "main.js.map": "/jindamp/lamdata/static/js/main.15181411.chunk.js.map",
-    "runtime-main.js": "/jindamp/lamdata/static/js/runtime-main.600e4b95.js",
-    "runtime-main.js.map": "/jindamp/lamdata/static/js/runtime-main.600e4b95.js.map",
-    "static/js/2.19f5b3a7.chunk.js": "/jindamp/lamdata/static/js/2.19f5b3a7.chunk.js",
-    "static/js/2.19f5b3a7.chunk.js.map": "/jindamp/lamdata/static/js/2.19f5b3a7.chunk.js.map",
-    "index.html": "/jindamp/lamdata/index.html",
-    "precache-manifest.41ab9d515c84daac51797d238fb992c3.js": "/jindamp/lamdata/precache-manifest.41ab9d515c84daac51797d238fb992c3.js",
-    "service-worker.js": "/jindamp/lamdata/service-worker.js",
-    "static/css/main.6f60fe5f.chunk.css.map": "/jindamp/lamdata/static/css/main.6f60fe5f.chunk.css.map",
-    "static/js/2.19f5b3a7.chunk.js.LICENSE.txt": "/jindamp/lamdata/static/js/2.19f5b3a7.chunk.js.LICENSE.txt",
-    "static/media/error_img.svg": "/jindamp/lamdata/static/media/error_img.c4b59ab5.svg",
-    "static/media/loading_img.gif": "/jindamp/lamdata/static/media/loading_img.43bdc870.gif"
+    "main.css": "/lamdata/static/css/main.6f60fe5f.chunk.css",
+    "main.js": "/lamdata/static/js/main.b0e1d20e.chunk.js",
+    "main.js.map": "/lamdata/static/js/main.b0e1d20e.chunk.js.map",
+    "runtime-main.js": "/lamdata/static/js/runtime-main.04750d8b.js",
+    "runtime-main.js.map": "/lamdata/static/js/runtime-main.04750d8b.js.map",
+    "static/js/2.a253baa7.chunk.js": "/lamdata/static/js/2.a253baa7.chunk.js",
+    "static/js/2.a253baa7.chunk.js.map": "/lamdata/static/js/2.a253baa7.chunk.js.map",
+    "index.html": "/lamdata/index.html",
+    "precache-manifest.bf43774931f3e3e0a73b59b41822a918.js": "/lamdata/precache-manifest.bf43774931f3e3e0a73b59b41822a918.js",
+    "service-worker.js": "/lamdata/service-worker.js",
+    "static/css/main.6f60fe5f.chunk.css.map": "/lamdata/static/css/main.6f60fe5f.chunk.css.map",
+    "static/js/2.a253baa7.chunk.js.LICENSE.txt": "/lamdata/static/js/2.a253baa7.chunk.js.LICENSE.txt",
+    "static/media/error_img.svg": "/lamdata/static/media/error_img.c4b59ab5.svg",
+    "static/media/loading_img.gif": "/lamdata/static/media/loading_img.43bdc870.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.600e4b95.js",
-    "static/js/2.19f5b3a7.chunk.js",
+    "static/js/runtime-main.04750d8b.js",
+    "static/js/2.a253baa7.chunk.js",
     "static/css/main.6f60fe5f.chunk.css",
-    "static/js/main.15181411.chunk.js"
+    "static/js/main.b0e1d20e.chunk.js"
   ]
 }
